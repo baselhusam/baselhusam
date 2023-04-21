@@ -4,7 +4,7 @@
 
 <br />
 
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="310" />
 
 <p align='left'> 
   Data Science Student at the University of Jordan, passion for learning.
@@ -13,7 +13,6 @@
   better version of myself every day. 
 </p>
 
-<br>
 
 - 🌱 I’m currently learning **MLOps**
 
