@@ -8,8 +8,8 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQwNGI2MTc5YTIxZDUwNmMwNmIwOGIzMzQ2NzNhYjBiMzRhYTA5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/IcZhFmufozDCij3p22/giphy.gif" width="450" height="450" align="right">
 
 <p align='left'> 
-  Data Science Student at the University of Jordan, passion for learning. <br> 
-  I've took many certificates in courses that related to my major, I like to avail my time. <br>
+  Data Science Student at the University of Jordan, passion for learning.
+  I've took many certificates in courses that related to my major, I like to avail my time. 
   I am also a productive person who can work efficient, I aim to keep learning and become a
   better version of myself every day. 
 </p>
@@ -36,8 +36,11 @@
 
  <p align="left">
       <a href="https://www.linkedin.com/in/basel-mather/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" style="padding-right: 100px;"></a>
+  &nbsp; &nbsp; 
       <a href="https://www.kaggle.com/baselmather" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="50" width="50" style="padding-right: 100px;"></a>
+  &nbsp; &nbsp;
       <a href="https://www.facebook.com/profile.php?id=100088667931989" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" style="padding-right: 100px;"></a>
+  &nbsp; &nbsp; &nbsp;
                 <a href="mailto:baselmathar@gmail.com" target="_blank"><img style="padding-right: 30px" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&amp;px=999" height="50" width="50" alt="Email"></a>
 
  </p>
