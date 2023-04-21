@@ -23,12 +23,12 @@
 
 - 📄 Checkout my [Portfolio](https://baselhusam-portfolio-main-5d6upa.streamlit.app/)
 
-- My latest project is [Blurify.AI](https://github.com/baselhusam/blurify.ai/)
+- 🎯 My latest project is [Blurify.AI](https://github.com/baselhusam/blurify.ai/)
 
 <br>
 <br>
 
-## 🔗 Connect with me
+## 💬  Connect with me
 
 <br> 
 
@@ -46,7 +46,7 @@
 
 <br> <br>
 
-## 👨‍💻 Languages and Tools: 
+## 🔧 Languages and Tools: 
 
 <br>
 
