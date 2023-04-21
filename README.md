@@ -4,8 +4,7 @@
 
 <br />
 
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQwNGI2MTc5YTIxZDUwNmMwNmIwOGIzMzQ2NzNhYjBiMzRhYTA5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/IcZhFmufozDCij3p22/giphy.gif" width="450" height="450" align="right">
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p align='left'> 
   Data Science Student at the University of Jordan, passion for learning.
