@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<h3 align="left">Connect with me:</h3>
+## 🔗 Connect with me
 
 <br> 
 
@@ -47,7 +47,7 @@
 
 <br> <br>
 
-### Languages and Tools: 
+## 👨‍💻 Languages and Tools: 
 
 <br>
 
@@ -57,9 +57,11 @@
   
 </div>
 
-<br><br><br><br> 
-<hr>
-<br>
+<br><br><br><br><br> 
 
+## 📊 Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=baselhusam&theme=algolia&show_icons=true&locale=en" alt="baselhusam" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baselhusam&theme=algolia&show_icons=true&locale=en&layout=compact" alt="baselhusam" />
 
+## 📈 GitHub Histroy
+
+![Snake animation](https://github.com/baselhusam/baselhusam/blob/output/github-contribution-grid-snake.svg)
