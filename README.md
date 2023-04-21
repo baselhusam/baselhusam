@@ -4,19 +4,16 @@
 
 <br />
 
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="310" />
-
-<p align='left'> 
-  Data Science Student at the University of Jordan, passion for learning.
-  I've took many certificates in courses that related to my major, I like to avail my time. 
-  I am also a productive person who can work efficient, I aim to keep learning and become a
-  better version of myself every day. 
-</p>
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="310" /> 
+Data Science Student at the University of Jordan, passion for learning.
+I've took many certificates in courses that related to my major, I like to avail my time. 
+I am also a productive person who can work efficient, I aim to keep learning and become a
+better version of myself every day. 
 
 
 - 🌱 I’m currently learning **MLOps**
 
-- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/baselhusam) Account
+- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/baselhusam)
 
 - 📫 Reach me at **baselmathar@gmail.com**
 
