@@ -30,13 +30,13 @@ better version of myself every day.
 
 
  <p align="left">
-      <a href="https://www.linkedin.com/in/basel-mather/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" style="padding-right: 100px;"></a>
+      <a href="https://www.linkedin.com/in/basel-mather/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="padding-right: 100px;"></a>
   &nbsp; &nbsp; 
-      <a href="https://www.kaggle.com/baselmather" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="50" width="50" style="padding-right: 100px;"></a>
+      <a href="https://www.kaggle.com/baselmather" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" style="padding-right: 100px;"></a>
   &nbsp; &nbsp;
-      <a href="https://www.facebook.com/profile.php?id=100088667931989" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" style="padding-right: 100px;"></a>
+      <a href="https://www.facebook.com/profile.php?id=100088667931989" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" style="padding-right: 100px;"></a>
   &nbsp; &nbsp; &nbsp;
-                <a href="mailto:baselmathar@gmail.com" target="_blank"><img style="padding-right: 30px" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&amp;px=999" height="50" width="50" alt="Email"></a>
+                <a href="mailto:baselmathar@gmail.com" target="_blank"><img style="padding-right: 30px" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&amp;px=999" height="40" width="40" alt="Email"></a>
 
  </p>
 
