@@ -85,7 +85,11 @@ I'm a Machine Learning Engineer and Data Science graduate from the **University 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baselhusam&theme=algolia&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=baselhusam&theme=algolia&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=baselhusam&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 </p>
 
 ### 📈 Contribution Graph
