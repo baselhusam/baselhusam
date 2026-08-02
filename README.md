@@ -89,7 +89,11 @@ I'm a Machine Learning Engineer and Data Science graduate from the **University 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baselhusam&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baselhusam/baselhusam/output-3d-contrib/night.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baselhusam/baselhusam/output-3d-contrib/day.svg" />
+    <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/baselhusam/baselhusam/output-3d-contrib/day.svg" />
+  </picture>
 </p>
 
 ### 📈 Contribution Graph
