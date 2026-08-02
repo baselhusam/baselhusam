@@ -80,8 +80,7 @@ I'm a Machine Learning Engineer and Data Science graduate from the **University 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=baselhusam&theme=algolia&show_icons=true&count_private=true&locale=en" alt="Basel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=baselhusam&theme=algolia&layout=compact&locale=en" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/baselhusam/baselhusam/output-metrics/github-metrics.svg" alt="Basel's GitHub metrics" />
 </p>
 
 <p align="center">
