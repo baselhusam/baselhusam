@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About me
 
-I'm a **Full-Stack AI Engineer** based in **Amman, Jordan**. I take AI systems all the way from idea to production — the GPU box, the model, the API, and the dashboards that prove it works. My open-source tools have crossed **17K+ downloads**, and I'd rather ship something people run than talk about it.
+I'm a **Full-Stack AI Engineer**. I take AI systems all the way from idea to production — the GPU box, the model, the API, and the dashboards that prove it works. My open-source tools have crossed **17K+ downloads**, and I'd rather ship something people run than talk about it.
 
 - 🧠 **LLMs & agents in production** — on-prem RAG and agentic systems on **vLLM**, with tool-calling, memory, and strict validation
 - 👁️ **Real-time computer vision** — detection, tracking & pose pipelines over **WebSockets / WebRTC**, deployed to the edge on **NVIDIA Jetson**
@@ -27,7 +27,6 @@ I'm a **Full-Stack AI Engineer** based in **Amman, Jordan**. I take AI systems a
 - 🗄️ **Data that fits the problem** — **PostgreSQL**, **MongoDB**, and vector stores (**Qdrant / Milvus**)
 - 🛠️ **Open source by default** — exporters, interpretability tools, and CLIs other engineers actually use
 - ✍️ Writing at **[BASEL.FM](https://baselhusam.com/fm)** · Portfolio → **[baselhusam.com](https://baselhusam.com)**
-- 💬 Ask me about **LLMs, RAG, AI agents, computer vision, and self-hosted AI infrastructure**
 
 ---
 
