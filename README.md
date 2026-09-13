@@ -19,11 +19,11 @@
 
 ### 👨‍💻 About me
 
-I'm a **Full-Stack AI Engineer** at the **Royal Hashemite Court** in Amman, Jordan, where I architect and ship end-to-end ML & Generative AI systems in **highly confidential, air-gapped environments** — from bare-metal GPU infrastructure up to autonomous AI agents. Before that I built production computer-vision pipelines for high-volume cargo at **Nafith Logistics**. I graduated as **Class Valedictorian** of the University of Jordan's Data Science program (2024), and my open-source packages have passed **17K+ downloads**.
+I'm a **Full-Stack AI Engineer** based in **Amman, Jordan**, building end-to-end ML & Generative AI systems — from bare-metal GPU infrastructure up to autonomous AI agents. I previously shipped production computer-vision pipelines for high-volume cargo at **Nafith Logistics**, graduated as **Class Valedictorian** of the University of Jordan's Data Science program (2024), and my open-source packages have passed **17K+ downloads**.
 
-- 🧠 **GenAI in production** — on-prem RAG & agentic platforms on **vLLM**, agents with tool-calling, long-term memory, and strict validation layers for document intelligence
-- 👁️ **Real-time computer vision** — detection, tracking & pose-estimation pipelines streamed over **WebSockets / WebRTC**, plus LiDAR + RGB perception on **NVIDIA Jetson** for autonomous platforms
-- ⚙️ **MLOps at scale** — bare-metal AI data-center setups, **Docker Swarm** microservices, **Kafka / GStreamer** streaming, and **Prometheus / Grafana** observability
+- 🧠 **GenAI in production** — on-prem RAG & agentic platforms on **vLLM**, agents with tool-calling, long-term memory, and strict validation layers
+- 👁️ **Real-time computer vision** — detection, tracking & pose-estimation pipelines streamed over **WebSockets / WebRTC**, and edge deployment on **NVIDIA Jetson**
+- ⚙️ **MLOps at scale** — **Docker Swarm** microservices, **Kafka / GStreamer** streaming, and **Prometheus / Grafana** observability
 - 🗄️ **Multi-modal data architecture** — hybrid **PostgreSQL + MongoDB + Qdrant / Milvus** systems
 - 🛠️ **Open-source tooling** — Prometheus exporters, interpretability tools, CV robustness testers, and CLIs other engineers actually run
 - ✍️ Writing at **[BASEL.FM](https://baselhusam.com/fm)** · Portfolio → **[baselhusam.com](https://baselhusam.com)**
@@ -33,36 +33,19 @@ I'm a **Full-Stack AI Engineer** at the **Royal Hashemite Court** in Amman, Jord
 
 ### 🚀 Featured Projects
 
-**🔭 LLM & AI Infrastructure**
-
-| Project | What it does |
+| Project | Description |
 | :--- | :--- |
-| **[bareai](https://github.com/baselhusam/bareai-cli)** · [site](https://baselhusam.github.io/bareai-cli/) | Read-only **Go** CLI + TUI that inspects a single AI box — host, GPUs, Docker, and local LLM runtimes (Ollama, vLLM, SGLang, Triton) — with JSON output and live monitoring. |
-| **[llm-xray](https://github.com/baselhusam/llm-xray)** · [demo](https://baselhusam.github.io/llm-xray/) | Watch a live LLM think — runs a real PyTorch forward pass through Qwen3-1.7B and streams attention, logit-lens predictions & token probabilities. |
-| **[open-webui-exporter](https://github.com/baselhusam/open-webui-exporter)** | Prometheus exporter for Open WebUI — polls the REST API (no DB access) and reconstructs per-model cost from an overridable price table. |
-| **[qdrant_exporter](https://github.com/baselhusam/qdrant_exporter)** ⭐6 | Prometheus exporter for self-hosted Qdrant — 34 per-collection, per-shard & cluster metrics the native `/metrics` endpoint doesn't expose. |
-| **[jordan-geo](https://github.com/baselhusam/jordan-geo)** · [🤗 Space](https://huggingface.co/spaces/BaselHusam/jordan-geo-mcp) | MCP server that gives any AI agent a styled SVG map of Jordan (country or governorate) plus a bilingual directory of its hospitals. |
-| **[damj](https://pypi.org/project/damj/)** · **9K+ downloads** | Python package for structured prompt engineering & project-context aggregation, extended into a containerized no-code UI. |
-
-**👁️ Computer Vision**
-
-| Project | What it does |
-| :--- | :--- |
-| **[CVFuzz](https://github.com/baselhusam/CVFuzz)** · [PyPI](https://pypi.org/project/cvfuzz/) | Local-first robustness tester for object detectors — nine configurable degradations (motion blur, fog, occlusion, glare…) to find where your model breaks. |
-| **[visionstyle](https://github.com/baselhusam/visionstyle)** | Beautiful, fully configurable bounding boxes for YOLO / Ultralytics — 12 presets, YAML styles, a live Studio editor and a CLI. |
-| **[OneLook](https://github.com/baselhusam/RetinAI)** | Retinal-image analysis platform that automates disease diagnosis and generates reports in under a minute. |
+| **[ClickML](https://github.com/baselhusam/ClickML)** ⭐18 | No-code AutoML platform — build, train, evaluate, and deploy ML models entirely through clicks. |
+| **[The Practice of Computing Using Python — Solved](https://github.com/baselhusam/The-Practice-of-Computing-Using-Python-Solved)** ⭐8 | Worked solutions to the 3rd edition of the book, exercise by exercise. |
+| **[streamlit_arabic_support_wrapper](https://github.com/baselhusam/streamlit_arabic_support_wrapper)** ⭐7 · 8K+ downloads | A clean component for perfectly aligning Arabic text in Streamlit apps. |
+| **[qdrant_exporter](https://github.com/baselhusam/qdrant_exporter)** ⭐6 | Prometheus exporter for self-hosted Qdrant — 34 per-collection, shard & cluster metrics the native `/metrics` endpoint doesn't expose. |
+| **[Face-Blurring](https://github.com/baselhusam/Face-Blurring)** ⭐3 | Blur faces in images while keeping the rest untouched, using Haar Cascade and YOLOv8. |
+| **[damj](https://github.com/baselhusam/damj)** ⭐2 · 9K+ downloads | Python package for structured prompt engineering and project-context aggregation. |
+| **[open-webui-exporter](https://github.com/baselhusam/open-webui-exporter)** ⭐1 | Prometheus exporter for Open WebUI — polls the REST API (no DB access) and reconstructs per-model cost. |
+| **[llm-xray](https://github.com/baselhusam/llm-xray)** | Watch a live LLM think — real-time attention, logit-lens predictions & token probabilities from a real PyTorch forward pass. |
+| **[bareai](https://github.com/baselhusam/bareai-cli)** | Go CLI + TUI that inspects a single AI box — host, GPUs, Docker, and local LLM runtimes (Ollama, vLLM, SGLang, Triton). |
+| **[CVFuzz](https://github.com/baselhusam/CVFuzz)** | Local-first robustness tester for object detectors — nine configurable degradations to find where your model breaks. |
 | **[EmotionLens](https://github.com/baselhusam/EmotionLens)** | Real-time face detection, tracking & emotion recognition with a YOLO-based multi-stage vision pipeline. |
-
-**🧰 ML Platforms & Apps**
-
-| Project | What it does |
-| :--- | :--- |
-| **[ClickML](https://github.com/baselhusam/ClickML)** ⭐18 · [app](https://clickml.streamlit.app/) | Production-grade **no-code AutoML** platform — build, train, evaluate and deploy ML models entirely through clicks. |
-| **[PHAI](https://github.com/baselhusam/PhAI)** | LLM-powered RAG platform that helps patients understand medical prescriptions — document ingestion, semantic search & grounded answers. |
-| **[streamlit_arabic_support_wrapper](https://github.com/baselhusam/streamlit_arabic_support_wrapper)** ⭐7 · **8K+ downloads** | Streamlit component for correct Arabic text alignment and rendering. |
-| **[daily-hub](https://github.com/baselhusam/daily-hub)** · [npm](https://www.npmjs.com/package/@baselhusam/daily-hub) | Local-first command center for people juggling several projects — projects, tasks, inbox & habits on one quiet surface (Next.js + SQLite). |
-
-<p align="center"><i>Full project write-ups with demos → <a href="https://baselhusam.com/projects">baselhusam.com/projects</a></i></p>
 
 ---
 
