@@ -34,13 +34,13 @@ I'm a **Full-Stack AI Engineer**. I take AI systems all the way from idea to pro
 
 | Project | Description |
 | :--- | :--- |
-| **[ClickML](https://github.com/baselhusam/ClickML)** ⭐18 | No-code AutoML platform — build, train, evaluate, and deploy ML models entirely through clicks. |
+| **[ClickML](https://github.com/baselhusam/ClickML)** ⭐18 · 5K+ users | No-code AutoML platform — build, train, evaluate, and deploy ML models entirely through clicks. |
 | **[The Practice of Computing Using Python — Solved](https://github.com/baselhusam/The-Practice-of-Computing-Using-Python-Solved)** ⭐8 | Worked solutions to the 3rd edition of the book, exercise by exercise. |
 | **[streamlit_arabic_support_wrapper](https://github.com/baselhusam/streamlit_arabic_support_wrapper)** ⭐7 · 8K+ downloads | A clean component for perfectly aligning Arabic text in Streamlit apps. |
-| **[qdrant_exporter](https://github.com/baselhusam/qdrant_exporter)** ⭐6 | Prometheus exporter for self-hosted Qdrant — 34 per-collection, shard & cluster metrics the native `/metrics` endpoint doesn't expose. |
+| **[qdrant_exporter](https://github.com/baselhusam/qdrant_exporter)** ⭐6 · 3K+ downloads | Prometheus exporter for self-hosted Qdrant — 34 per-collection, shard & cluster metrics the native `/metrics` endpoint doesn't expose. |
 | **[Face-Blurring](https://github.com/baselhusam/Face-Blurring)** ⭐3 | Blur faces in images while keeping the rest untouched, using Haar Cascade and YOLOv8. |
 | **[damj](https://github.com/baselhusam/damj)** ⭐2 · 9K+ downloads | Python package for structured prompt engineering and project-context aggregation. |
-| **[open-webui-exporter](https://github.com/baselhusam/open-webui-exporter)** ⭐1 | Prometheus exporter for Open WebUI — polls the REST API (no DB access) and reconstructs per-model cost. |
+| **[open-webui-exporter](https://github.com/baselhusam/open-webui-exporter)** ⭐1 · 1K+ downloads | Prometheus exporter for Open WebUI — polls the REST API (no DB access) and reconstructs per-model cost. |
 
 ---
 
