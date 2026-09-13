@@ -42,10 +42,6 @@ I'm a **Full-Stack AI Engineer** based in **Amman, Jordan**, building end-to-end
 | **[Face-Blurring](https://github.com/baselhusam/Face-Blurring)** ⭐3 | Blur faces in images while keeping the rest untouched, using Haar Cascade and YOLOv8. |
 | **[damj](https://github.com/baselhusam/damj)** ⭐2 · 9K+ downloads | Python package for structured prompt engineering and project-context aggregation. |
 | **[open-webui-exporter](https://github.com/baselhusam/open-webui-exporter)** ⭐1 | Prometheus exporter for Open WebUI — polls the REST API (no DB access) and reconstructs per-model cost. |
-| **[llm-xray](https://github.com/baselhusam/llm-xray)** | Watch a live LLM think — real-time attention, logit-lens predictions & token probabilities from a real PyTorch forward pass. |
-| **[bareai](https://github.com/baselhusam/bareai-cli)** | Go CLI + TUI that inspects a single AI box — host, GPUs, Docker, and local LLM runtimes (Ollama, vLLM, SGLang, Triton). |
-| **[CVFuzz](https://github.com/baselhusam/CVFuzz)** | Local-first robustness tester for object detectors — nine configurable degradations to find where your model breaks. |
-| **[EmotionLens](https://github.com/baselhusam/EmotionLens)** | Real-time face detection, tracking & emotion recognition with a YOLO-based multi-stage vision pipeline. |
 
 ---
 
