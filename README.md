@@ -19,15 +19,15 @@
 
 ### 👨‍💻 About me
 
-I'm a **Full-Stack AI Engineer** based in **Amman, Jordan**, building end-to-end ML & Generative AI systems — from bare-metal GPU infrastructure up to autonomous AI agents. I previously shipped production computer-vision pipelines for high-volume cargo at **Nafith Logistics**, graduated as **Class Valedictorian** of the University of Jordan's Data Science program (2024), and my open-source packages have passed **17K+ downloads**.
+I'm a **Full-Stack AI Engineer** based in **Amman, Jordan**. I take AI systems all the way from idea to production — the GPU box, the model, the API, and the dashboards that prove it works. My open-source tools have crossed **17K+ downloads**, and I'd rather ship something people run than talk about it.
 
-- 🧠 **GenAI in production** — on-prem RAG & agentic platforms on **vLLM**, agents with tool-calling, long-term memory, and strict validation layers
-- 👁️ **Real-time computer vision** — detection, tracking & pose-estimation pipelines streamed over **WebSockets / WebRTC**, and edge deployment on **NVIDIA Jetson**
-- ⚙️ **MLOps at scale** — **Docker Swarm** microservices, **Kafka / GStreamer** streaming, and **Prometheus / Grafana** observability
-- 🗄️ **Multi-modal data architecture** — hybrid **PostgreSQL + MongoDB + Qdrant / Milvus** systems
-- 🛠️ **Open-source tooling** — Prometheus exporters, interpretability tools, CV robustness testers, and CLIs other engineers actually run
+- 🧠 **LLMs & agents in production** — on-prem RAG and agentic systems on **vLLM**, with tool-calling, memory, and strict validation
+- 👁️ **Real-time computer vision** — detection, tracking & pose pipelines over **WebSockets / WebRTC**, deployed to the edge on **NVIDIA Jetson**
+- ⚙️ **Infrastructure that holds up** — **Docker Swarm**, **Kafka / GStreamer** streaming, **Prometheus / Grafana** observability
+- 🗄️ **Data that fits the problem** — **PostgreSQL**, **MongoDB**, and vector stores (**Qdrant / Milvus**)
+- 🛠️ **Open source by default** — exporters, interpretability tools, and CLIs other engineers actually use
 - ✍️ Writing at **[BASEL.FM](https://baselhusam.com/fm)** · Portfolio → **[baselhusam.com](https://baselhusam.com)**
-- 💬 Ask me about **LLMs, RAG, AI agents, computer vision, vLLM, and self-hosted AI infrastructure**
+- 💬 Ask me about **LLMs, RAG, AI agents, computer vision, and self-hosted AI infrastructure**
 
 ---
 
