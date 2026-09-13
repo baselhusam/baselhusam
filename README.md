@@ -19,26 +19,50 @@
 
 ### 👨‍💻 About me
 
-I'm a Machine Learning Engineer and Data Science graduate from the **University of Jordan**, based in **Amman**. I work across the full ML lifecycle — from training computer-vision models to shipping and **observing LLM systems in production**.
+I'm a **Full-Stack AI Engineer** at the **Royal Hashemite Court** in Amman, Jordan, where I architect and ship end-to-end ML & Generative AI systems in **highly confidential, air-gapped environments** — from bare-metal GPU infrastructure up to autonomous AI agents. Before that I built production computer-vision pipelines for high-volume cargo at **Nafith Logistics**. I graduated as **Class Valedictorian** of the University of Jordan's Data Science program (2024), and my open-source packages have passed **17K+ downloads**.
 
-- 🔭 Building **MLOps & LLM infrastructure** — observability, exporters, and interpretability tooling
-- 🌱 Deep-diving into **self-hosted LLM stacks**, vector databases, and monitoring
-- 🧩 I like turning research-y ideas into **clean, usable tools** other people can run
-- 📄 Portfolio → **[baselhusam.com](https://baselhusam.com)**
-- 💬 Ask me about **LLMs, computer vision, Streamlit, and ML tooling**
+- 🧠 **GenAI in production** — on-prem RAG & agentic platforms on **vLLM**, agents with tool-calling, long-term memory, and strict validation layers for document intelligence
+- 👁️ **Real-time computer vision** — detection, tracking & pose-estimation pipelines streamed over **WebSockets / WebRTC**, plus LiDAR + RGB perception on **NVIDIA Jetson** for autonomous platforms
+- ⚙️ **MLOps at scale** — bare-metal AI data-center setups, **Docker Swarm** microservices, **Kafka / GStreamer** streaming, and **Prometheus / Grafana** observability
+- 🗄️ **Multi-modal data architecture** — hybrid **PostgreSQL + MongoDB + Qdrant / Milvus** systems
+- 🛠️ **Open-source tooling** — Prometheus exporters, interpretability tools, CV robustness testers, and CLIs other engineers actually run
+- ✍️ Writing at **[BASEL.FM](https://baselhusam.com/fm)** · Portfolio → **[baselhusam.com](https://baselhusam.com)**
+- 💬 Ask me about **LLMs, RAG, AI agents, computer vision, vLLM, and self-hosted AI infrastructure**
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description |
+**🔭 LLM & AI Infrastructure**
+
+| Project | What it does |
 | :--- | :--- |
-| **[ClickML](https://github.com/baselhusam/ClickML)** ⭐19 | No-code machine learning — build, train, and evaluate ML models entirely through clicks. |
-| **[qdrant_exporter](https://github.com/baselhusam/qdrant_exporter)** ⭐6 | Prometheus exporter for self-hosted Qdrant, surfacing per-collection, shard & cluster metrics. |
-| **[llm-xray](https://github.com/baselhusam/llm-xray)** | Watch a live LLM think — real-time attention, logit-lens predictions & token probabilities. |
-| **[damj](https://github.com/baselhusam/damj)** | Python package for building well-structured prompts integrated with code snippets. |
-| **[streamlit_arabic_support_wrapper](https://github.com/baselhusam/streamlit_arabic_support_wrapper)** ⭐7 | A clean component for perfectly aligning Arabic text in Streamlit apps. |
-| **[EmotionLens](https://github.com/baselhusam/EmotionLens)** | Face detection + emotion recognition to capture and interpret facial expressions. |
+| **[bareai](https://github.com/baselhusam/bareai-cli)** · [site](https://baselhusam.github.io/bareai-cli/) | Read-only **Go** CLI + TUI that inspects a single AI box — host, GPUs, Docker, and local LLM runtimes (Ollama, vLLM, SGLang, Triton) — with JSON output and live monitoring. |
+| **[llm-xray](https://github.com/baselhusam/llm-xray)** · [demo](https://baselhusam.github.io/llm-xray/) | Watch a live LLM think — runs a real PyTorch forward pass through Qwen3-1.7B and streams attention, logit-lens predictions & token probabilities. |
+| **[open-webui-exporter](https://github.com/baselhusam/open-webui-exporter)** | Prometheus exporter for Open WebUI — polls the REST API (no DB access) and reconstructs per-model cost from an overridable price table. |
+| **[qdrant_exporter](https://github.com/baselhusam/qdrant_exporter)** ⭐6 | Prometheus exporter for self-hosted Qdrant — 34 per-collection, per-shard & cluster metrics the native `/metrics` endpoint doesn't expose. |
+| **[jordan-geo](https://github.com/baselhusam/jordan-geo)** · [🤗 Space](https://huggingface.co/spaces/BaselHusam/jordan-geo-mcp) | MCP server that gives any AI agent a styled SVG map of Jordan (country or governorate) plus a bilingual directory of its hospitals. |
+| **[damj](https://pypi.org/project/damj/)** · **9K+ downloads** | Python package for structured prompt engineering & project-context aggregation, extended into a containerized no-code UI. |
+
+**👁️ Computer Vision**
+
+| Project | What it does |
+| :--- | :--- |
+| **[CVFuzz](https://github.com/baselhusam/CVFuzz)** · [PyPI](https://pypi.org/project/cvfuzz/) | Local-first robustness tester for object detectors — nine configurable degradations (motion blur, fog, occlusion, glare…) to find where your model breaks. |
+| **[visionstyle](https://github.com/baselhusam/visionstyle)** | Beautiful, fully configurable bounding boxes for YOLO / Ultralytics — 12 presets, YAML styles, a live Studio editor and a CLI. |
+| **[OneLook](https://github.com/baselhusam/RetinAI)** | Retinal-image analysis platform that automates disease diagnosis and generates reports in under a minute. |
+| **[EmotionLens](https://github.com/baselhusam/EmotionLens)** | Real-time face detection, tracking & emotion recognition with a YOLO-based multi-stage vision pipeline. |
+
+**🧰 ML Platforms & Apps**
+
+| Project | What it does |
+| :--- | :--- |
+| **[ClickML](https://github.com/baselhusam/ClickML)** ⭐18 · [app](https://clickml.streamlit.app/) | Production-grade **no-code AutoML** platform — build, train, evaluate and deploy ML models entirely through clicks. |
+| **[PHAI](https://github.com/baselhusam/PhAI)** | LLM-powered RAG platform that helps patients understand medical prescriptions — document ingestion, semantic search & grounded answers. |
+| **[streamlit_arabic_support_wrapper](https://github.com/baselhusam/streamlit_arabic_support_wrapper)** ⭐7 · **8K+ downloads** | Streamlit component for correct Arabic text alignment and rendering. |
+| **[daily-hub](https://github.com/baselhusam/daily-hub)** · [npm](https://www.npmjs.com/package/@baselhusam/daily-hub) | Local-first command center for people juggling several projects — projects, tasks, inbox & habits on one quiet surface (Next.js + SQLite). |
+
+<p align="center"><i>Full project write-ups with demos → <a href="https://baselhusam.com/projects">baselhusam.com/projects</a></i></p>
 
 ---
 
@@ -47,41 +71,64 @@ I'm a Machine Learning Engineer and Data Science graduate from the **University 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**ML / Deep Learning**
+**Generative AI & LLMs**
+
+![vLLM](https://img.shields.io/badge/vLLM-F7B500?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-1F6FEB?style=for-the-badge&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-0F172A?style=for-the-badge&logoColor=white)
+
+**Deep Learning & Computer Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![YOLO / Ultralytics](https://img.shields.io/badge/YOLO%20%2F%20Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA%20%2F%20cuDNN-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-**MLOps & Infra**
+**Backend & Real-Time Streaming**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets%20%2F%20WebRTC-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![GStreamer](https://img.shields.io/badge/GStreamer-E55B2D?style=for-the-badge&logo=gstreamer&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**MLOps, Infra & Edge**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Data & Apps**
+**Data & Vector Stores**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/baselhusam/baselhusam/output-metrics/github-metrics.svg" alt="Basel's GitHub metrics" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=baselhusam&theme=algolia&hide_border=true" alt="GitHub streak" />
