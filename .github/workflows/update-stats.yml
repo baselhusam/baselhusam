@@ -1,0 +1,31 @@
+name: Update download stats
+on:
+  schedule: # once a day, from the same collector as baselhusam.com
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+jobs:
+  stats:
+    name: Refresh README numbers
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Pull live numbers into README
+        run: node .github/scripts/update-stats.mjs
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Refresh download stats"
+          git push
