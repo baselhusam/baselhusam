@@ -1,0 +1,66 @@
+{
+  "bareai:releases": {
+    "total": 22,
+    "checkedAt": "2026-11-12T22:40:00.000Z"
+  },
+  "cvfuzz:pypi": {
+    "total": 709,
+    "checkedAt": "2026-11-18T07:31:18.775Z"
+  },
+  "daily-hub:dockerhub": {
+    "total": 2755,
+    "checkedAt": "2026-11-18T07:31:19.894Z"
+  },
+  "daily-hub:ghcr": {
+    "total": 171,
+    "checkedAt": "2026-11-12T22:40:00.000Z"
+  },
+  "daily-hub:npm": {
+    "total": 4724,
+    "checkedAt": "2026-11-18T07:31:19.716Z"
+  },
+  "damj:dockerhub": {
+    "total": 287,
+    "checkedAt": "2026-11-12T22:40:00.000Z"
+  },
+  "damj:pypi": {
+    "total": 10554,
+    "checkedAt": "2026-11-18T07:31:18.830Z"
+  },
+  "icy-tower:npm": {
+    "total": 975,
+    "checkedAt": "2026-11-18T07:31:19.631Z"
+  },
+  "open-webui:dockerhub": {
+    "total": 4207,
+    "checkedAt": "2026-11-18T07:31:18.621Z"
+  },
+  "open-webui:ghcr": {
+    "total": 6955,
+    "checkedAt": "2026-11-18T07:31:19.936Z"
+  },
+  "open-webui:grafana": {
+    "total": 191,
+    "checkedAt": "2026-11-18T07:31:20.305Z"
+  },
+  "qdrant:dockerhub": {
+    "total": 3750,
+    "checkedAt": "2026-11-18T07:31:18.968Z"
+  },
+  "qdrant:ghcr": {
+    "total": 1184,
+    "checkedAt": "2026-11-18T07:31:20.243Z"
+  },
+  "qdrant:grafana": {
+    "total": 1240,
+    "checkedAt": "2026-11-18T07:31:20.625Z"
+  },
+  "streamlit-arabic:pypi": {
+    "total": 9730,
+    "checkedAt": "2026-11-18T07:31:18.786Z"
+  },
+  "visionstyle:pypi": {
+    "total": 1036,
+    "checkedAt": "2026-11-18T07:31:18.836Z"
+  }
+}

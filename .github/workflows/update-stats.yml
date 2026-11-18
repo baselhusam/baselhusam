@@ -1,6 +1,6 @@
 name: Update download stats
 on:
-  schedule: # once a day, from the same collector as baselhusam.com
+  schedule: # once a day, straight from npm / PyPI / Docker Hub / GHCR / Grafana
     - cron: "17 3 * * *"
   workflow_dispatch:
 jobs:
@@ -18,10 +18,12 @@ jobs:
 
       - name: Pull live numbers into README
         run: node .github/scripts/update-stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit if anything changed
         run: |
-          if git diff --quiet README.md; then
+          if git diff --quiet README.md .github/stats.json; then
             echo "No changes."
             exit 0
           fi
