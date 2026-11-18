@@ -8,16 +8,16 @@
     "checkedAt": "2026-11-18T07:31:18.775Z"
   },
   "daily-hub:dockerhub": {
-    "total": 2755,
-    "checkedAt": "2026-11-18T07:31:19.894Z"
+    "total": 2762,
+    "checkedAt": "2026-11-18T11:51:13.860Z"
   },
   "daily-hub:ghcr": {
     "total": 171,
     "checkedAt": "2026-11-12T22:40:00.000Z"
   },
   "daily-hub:npm": {
-    "total": 4724,
-    "checkedAt": "2026-11-18T07:31:19.716Z"
+    "total": 4730,
+    "checkedAt": "2026-11-18T11:51:13.737Z"
   },
   "damj:dockerhub": {
     "total": 287,
@@ -28,16 +28,16 @@
     "checkedAt": "2026-11-18T07:31:18.830Z"
   },
   "icy-tower:npm": {
-    "total": 975,
-    "checkedAt": "2026-11-18T07:31:19.631Z"
+    "total": 981,
+    "checkedAt": "2026-11-18T11:51:13.219Z"
   },
   "open-webui:dockerhub": {
-    "total": 4207,
-    "checkedAt": "2026-11-18T07:31:18.621Z"
+    "total": 4211,
+    "checkedAt": "2026-11-18T11:51:12.867Z"
   },
   "open-webui:ghcr": {
-    "total": 6955,
-    "checkedAt": "2026-11-18T07:31:19.936Z"
+    "total": 6986,
+    "checkedAt": "2026-11-18T11:51:14.153Z"
   },
   "open-webui:grafana": {
     "total": 191,
@@ -48,8 +48,8 @@
     "checkedAt": "2026-11-18T07:31:18.968Z"
   },
   "qdrant:ghcr": {
-    "total": 1184,
-    "checkedAt": "2026-11-18T07:31:20.243Z"
+    "total": 1196,
+    "checkedAt": "2026-11-18T11:51:14.120Z"
   },
   "qdrant:grafana": {
     "total": 1240,
