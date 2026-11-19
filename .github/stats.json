@@ -4,63 +4,63 @@
     "checkedAt": "2026-11-12T22:40:00.000Z"
   },
   "cvfuzz:pypi": {
-    "total": 709,
-    "checkedAt": "2026-11-18T07:31:18.775Z"
+    "total": 718,
+    "checkedAt": "2026-11-19T11:48:07.278Z"
   },
   "daily-hub:dockerhub": {
-    "total": 2762,
-    "checkedAt": "2026-11-18T11:51:13.860Z"
+    "total": 2808,
+    "checkedAt": "2026-11-19T11:48:07.762Z"
   },
   "daily-hub:ghcr": {
-    "total": 171,
-    "checkedAt": "2026-11-12T22:40:00.000Z"
+    "total": 218,
+    "checkedAt": "2026-11-19T11:48:08.956Z"
   },
   "daily-hub:npm": {
-    "total": 4730,
-    "checkedAt": "2026-11-18T11:51:13.737Z"
+    "total": 4769,
+    "checkedAt": "2026-11-19T11:48:07.695Z"
   },
   "damj:dockerhub": {
     "total": 287,
     "checkedAt": "2026-11-12T22:40:00.000Z"
   },
   "damj:pypi": {
-    "total": 10554,
-    "checkedAt": "2026-11-18T07:31:18.830Z"
+    "total": 10558,
+    "checkedAt": "2026-11-19T11:48:07.312Z"
   },
   "icy-tower:npm": {
     "total": 981,
     "checkedAt": "2026-11-18T11:51:13.219Z"
   },
   "open-webui:dockerhub": {
-    "total": 4211,
-    "checkedAt": "2026-11-18T11:51:12.867Z"
+    "total": 4221,
+    "checkedAt": "2026-11-19T11:48:07.027Z"
   },
   "open-webui:ghcr": {
-    "total": 6986,
-    "checkedAt": "2026-11-18T11:51:14.153Z"
+    "total": 7197,
+    "checkedAt": "2026-11-19T11:48:08.124Z"
   },
   "open-webui:grafana": {
     "total": 191,
     "checkedAt": "2026-11-18T07:31:20.305Z"
   },
   "qdrant:dockerhub": {
-    "total": 3750,
-    "checkedAt": "2026-11-18T07:31:18.968Z"
+    "total": 3769,
+    "checkedAt": "2026-11-19T11:48:07.031Z"
   },
   "qdrant:ghcr": {
-    "total": 1196,
-    "checkedAt": "2026-11-18T11:51:14.120Z"
+    "total": 1254,
+    "checkedAt": "2026-11-19T11:48:08.201Z"
   },
   "qdrant:grafana": {
     "total": 1240,
     "checkedAt": "2026-11-18T07:31:20.625Z"
   },
   "streamlit-arabic:pypi": {
-    "total": 9730,
-    "checkedAt": "2026-11-18T07:31:18.786Z"
+    "total": 9745,
+    "checkedAt": "2026-11-19T11:48:07.426Z"
   },
   "visionstyle:pypi": {
-    "total": 1036,
-    "checkedAt": "2026-11-18T07:31:18.836Z"
+    "total": 1042,
+    "checkedAt": "2026-11-19T11:48:07.344Z"
   }
 }
