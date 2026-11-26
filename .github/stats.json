@@ -4,16 +4,16 @@
     "checkedAt": "2026-11-12T22:40:00.000Z"
   },
   "cvfuzz:pypi": {
-    "total": 751,
-    "checkedAt": "2026-11-25T13:04:07.847Z"
+    "total": 755,
+    "checkedAt": "2026-11-26T07:27:38.680Z"
   },
   "daily-hub:dockerhub": {
-    "total": 3000,
-    "checkedAt": "2026-11-25T13:04:08.080Z"
+    "total": 3022,
+    "checkedAt": "2026-11-26T07:27:40.148Z"
   },
   "daily-hub:ghcr": {
-    "total": 274,
-    "checkedAt": "2026-11-22T11:33:58.438Z"
+    "total": 279,
+    "checkedAt": "2026-11-26T07:27:41.843Z"
   },
   "daily-hub:npm": {
     "total": 4861,
@@ -24,43 +24,43 @@
     "checkedAt": "2026-11-24T13:51:25.521Z"
   },
   "damj:pypi": {
-    "total": 10624,
-    "checkedAt": "2026-11-25T13:04:07.925Z"
+    "total": 10640,
+    "checkedAt": "2026-11-26T07:27:38.820Z"
   },
   "icy-tower:npm": {
     "total": 1000,
     "checkedAt": "2026-11-25T13:04:07.727Z"
   },
   "open-webui:dockerhub": {
-    "total": 4625,
-    "checkedAt": "2026-11-25T13:04:07.580Z"
+    "total": 4638,
+    "checkedAt": "2026-11-26T07:27:39.009Z"
   },
   "open-webui:ghcr": {
-    "total": 8148,
-    "checkedAt": "2026-11-25T13:04:08.554Z"
+    "total": 8268,
+    "checkedAt": "2026-11-26T07:27:40.458Z"
   },
   "open-webui:grafana": {
     "total": 200,
     "checkedAt": "2026-11-25T13:04:08.666Z"
   },
   "qdrant:dockerhub": {
-    "total": 4121,
-    "checkedAt": "2026-11-25T13:04:07.549Z"
+    "total": 4130,
+    "checkedAt": "2026-11-26T07:27:38.694Z"
   },
   "qdrant:ghcr": {
-    "total": 1453,
-    "checkedAt": "2026-11-25T13:04:08.663Z"
+    "total": 1471,
+    "checkedAt": "2026-11-26T07:27:40.196Z"
   },
   "qdrant:grafana": {
     "total": 1249,
     "checkedAt": "2026-11-25T13:04:08.774Z"
   },
   "streamlit-arabic:pypi": {
-    "total": 9781,
-    "checkedAt": "2026-11-25T13:04:08.103Z"
+    "total": 9788,
+    "checkedAt": "2026-11-26T07:27:38.818Z"
   },
   "visionstyle:pypi": {
-    "total": 1115,
-    "checkedAt": "2026-11-25T13:04:08.125Z"
+    "total": 1125,
+    "checkedAt": "2026-11-26T07:27:38.665Z"
   }
 }
