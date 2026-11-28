@@ -4,63 +4,63 @@
     "checkedAt": "2026-11-12T22:40:00.000Z"
   },
   "cvfuzz:pypi": {
-    "total": 756,
-    "checkedAt": "2026-11-27T12:34:47.209Z"
+    "total": 758,
+    "checkedAt": "2026-11-28T11:54:37.720Z"
   },
   "daily-hub:dockerhub": {
-    "total": 3043,
-    "checkedAt": "2026-11-27T12:34:47.511Z"
+    "total": 3071,
+    "checkedAt": "2026-11-28T11:54:38.320Z"
   },
   "daily-hub:ghcr": {
     "total": 283,
     "checkedAt": "2026-11-27T12:34:48.532Z"
   },
   "daily-hub:npm": {
-    "total": 4869,
-    "checkedAt": "2026-11-27T12:34:47.471Z"
+    "total": 4876,
+    "checkedAt": "2026-11-28T11:54:38.278Z"
   },
   "damj:dockerhub": {
-    "total": 304,
-    "checkedAt": "2026-11-27T12:34:47.292Z"
+    "total": 305,
+    "checkedAt": "2026-11-28T11:54:37.761Z"
   },
   "damj:pypi": {
-    "total": 10642,
-    "checkedAt": "2026-11-27T12:34:47.250Z"
+    "total": 10645,
+    "checkedAt": "2026-11-28T11:54:37.717Z"
   },
   "icy-tower:npm": {
-    "total": 1005,
-    "checkedAt": "2026-11-27T12:34:47.183Z"
+    "total": 1006,
+    "checkedAt": "2026-11-28T11:54:38.060Z"
   },
   "open-webui:dockerhub": {
-    "total": 4663,
-    "checkedAt": "2026-11-27T12:34:46.928Z"
+    "total": 4681,
+    "checkedAt": "2026-11-28T11:54:37.436Z"
   },
   "open-webui:ghcr": {
-    "total": 8462,
-    "checkedAt": "2026-11-27T12:34:48.028Z"
+    "total": 8606,
+    "checkedAt": "2026-11-28T11:54:38.361Z"
   },
   "open-webui:grafana": {
-    "total": 201,
-    "checkedAt": "2026-11-27T12:34:48.085Z"
+    "total": 202,
+    "checkedAt": "2026-11-28T11:54:38.463Z"
   },
   "qdrant:dockerhub": {
-    "total": 4154,
-    "checkedAt": "2026-11-27T12:34:46.933Z"
+    "total": 4164,
+    "checkedAt": "2026-11-28T11:54:37.439Z"
   },
   "qdrant:ghcr": {
-    "total": 1500,
-    "checkedAt": "2026-11-27T12:34:48.074Z"
+    "total": 1530,
+    "checkedAt": "2026-11-28T11:54:38.552Z"
   },
   "qdrant:grafana": {
     "total": 1250,
     "checkedAt": "2026-11-26T12:44:40.921Z"
   },
   "streamlit-arabic:pypi": {
-    "total": 9810,
-    "checkedAt": "2026-11-27T12:34:47.245Z"
+    "total": 9814,
+    "checkedAt": "2026-11-28T11:54:37.699Z"
   },
   "visionstyle:pypi": {
-    "total": 1129,
-    "checkedAt": "2026-11-27T12:34:47.255Z"
+    "total": 1133,
+    "checkedAt": "2026-11-28T11:54:37.745Z"
   }
 }
